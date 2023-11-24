@@ -1,0 +1,123 @@
+div {
+    display: block;
+    margin: 100px;
+     
+}
+.btn {
+    color: #fff;
+    background-color: rgb(209, 209, 45);
+    padding: 8px 25px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+  
+}
+.btn1{
+    color: #fff;
+    background-color: rgb(0, 0, 0);
+    padding: 9px 23px;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all;
+    box-shadow: 1px 5px 10px #0a0b5b; 
+ 
+
+}
+.btn2{
+    color: #fff;
+    background-color: rgb(63, 63, 2);
+    padding: 38px 28px;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all;
+    box-shadow: 1px 5px 10px #0a0b5b;
+ 
+}
+.btn3{
+    color: #be1515;
+    background-color: rgb(220, 228, 245);
+    padding: 23px 30px;
+    border-radius: 3px;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase; 
+    transition-duration: .5s;
+}
+.btn4{
+    color: cornflowerblue;
+    background-color: rgb(133, 133, 15);
+    padding: 19px 34px;
+    border-radius: 3px;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all;
+    box-shadow: 1px 5px 10px #0a0b5b;
+    transition-duration: .5s;
+
+}
+.btn5{
+    color: #000000;
+    background-color: rgb(255, 123, 23);
+    padding: 17px 27px;
+    border-radius: 3px;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+.btn6{
+    color: #c52d2d;
+    background-color: rgb(224, 224, 146);
+    padding: 10px 31px;
+    border-radius: 10px;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all;
+    box-shadow: 1px 5px 10px #0a0b5b;
+    transition-duration: .5s;
+    
+}
+.btn7{
+    color: #adadad;
+    background-color: rgb(110, 110, 60);
+    padding: 13px 40px;
+    border-radius: 3px;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all;
+    box-shadow: 1px 5px 10px #0a0b5b;
+    
+
+}
+.btn8{
+    color: #6b3d3d;
+    background-color: rgb(107, 107, 11);
+    padding: 30px 14px;
+    border-radius: 3px;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition-duration: .5s;
+
+}
+.btn:hover {
+    background-color: #1c6cb3;
+    box-shadow: 1px 3px 6px #0a0b5b;
+    transform: rotate(5deg);
+}
+
+.btn:active {
+    background-color: #0f5da2;
+    box-shadow: 1px 1px 2px #0a0b5b;
+}
